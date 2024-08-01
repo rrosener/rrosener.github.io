@@ -21,7 +21,7 @@ repository               : "rrosener/rrosener.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/files/rrosener_keck.png"
+  avatar           : "/files/rrosener_keck.jpg"
   name             : "Riley Rosener"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar WIP"
