@@ -6,15 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Front Page. WIP.
+If you've found this... my website is currently being created! Contact information and [resume](https://rrosener.github.io/cv/) are up to date. Stay tuned.
 
 
 
-A data-driven personal website
+Introduction
 ======
 Text.
 
-Getting started
+Interests
 ======
 Info.
 
