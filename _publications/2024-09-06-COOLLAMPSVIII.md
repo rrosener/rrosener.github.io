@@ -1,7 +1,7 @@
 ---
-title: "COOL-LAMPS VIII: Known wide-separation lensed quasars and their host galaxies reveal a lack of evolution in $$M_{BH}/M_{*}$$ since $$z ~ 3$$"
+title: "COOL-LAMPS VIII: Known wide-separation lensed quasars and their host galaxies reveal a lack of evolution in $$M_{BH}/M_{*}$$ since $$z \\sim 3$$"
 collection: publications
-permalink: /publication/Cloonan24_COOLLAMPSVIII
+permalink: /publication/2024-09-06-COOLLAMPSVIII
 excerpt: 'Paper characterizing the widely-separated lensed quasars discovered by COOL-LAMPS. I specifically contributed to the discovery and data analysis of COOLJ1153+0755.'
 date: 2024-09-06
 venue: 'ApJ'
