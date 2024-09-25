@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-I do not have a current CV, but for now, find a current resume linked [here](/files/RRosener_resume5_data.pdf).
+You can find a draft of my current CV linked [here](/files/RRosener_CV_draft.pdf)!
