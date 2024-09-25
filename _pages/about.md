@@ -6,24 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-If you've found this... my website is currently being created! Contact information and [resume](https://rrosener.github.io/cv/) are up to date. Stay tuned.
+If you've found this... my website is currently being created! Contact information and [CV](https://rrosener.github.io/cv/) are up to date. Stay tuned.
 
 
 
 Introduction
-======
-Text.
+------
+Hi, I'm Riley Rosener! I recently graduated from the University of Chicago with a B.S. in Astrophysics with Honors, and a Minor in History. I am currently working as an researcher in [Professor Jacob Bean's research group](https://astro.uchicago.edu/~jbean/index.html), with Dr. Michael Zhang, transferring my senior thesis project into a paper manuscript for publication soon. More information can be found at [Publications](https://rrosener.github.io/publications/). 
 
 Interests
-======
-Info.
-
-
-Site-wide configuration
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
+My manuscript in preparation focuses on escaping exoplanet atmospheres, attempting to determine the detectability of potential outflow emissions. I am interested in observational astronomy and instrumentation, particularly within the field of exoplanets. I enjoy solving practical problems, and like engaging with astronomical data (and the associated problems with it). I am also curious about the intersection of astrophysics and the earth sciences, which is particularly relevant when studying the formation and evolution of planets.
