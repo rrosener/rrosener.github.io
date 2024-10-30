@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can find a draft of my current CV linked [here](/files/RRosener_CV_draft.pdf)!
+You can find my current CV linked [here](/files/RRosener_CV_103024.pdf)!
