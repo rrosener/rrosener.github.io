@@ -12,7 +12,7 @@ If you've found this... my website is currently being created! Contact informati
 
 Introduction
 ------
-Hi, I'm Riley Rosener! I recently graduated from the University of Chicago with a B.S. in Astrophysics with Honors, and a Minor in History. I am currently working as an researcher in [Professor Jacob Bean's research group](https://astro.uchicago.edu/~jbean/index.html), with Dr. Michael Zhang, transferring my senior thesis project into a manuscript submitted to _The Astrophysical Journal_ in October 2024. More details can be found at [Publications](https://rrosener.github.io/publications/). Please contact me if you want more information before an arXiv preprint is released.
+Hi, I'm Riley Rosener! I recently graduated from the University of Chicago with a B.S. in Astrophysics with Honors, and a Minor in History. I am currently working as an researcher in [Professor Jacob Bean's research group](https://astro.uchicago.edu/~jbean/index.html), with Dr. Michael Zhang, transferring my senior thesis project into a manuscript that was submitted to _The Astrophysical Journal_ in October 2024. More details can be found at [Publications](https://rrosener.github.io/publications/) or by looking at the [GitHub page for pyTPCI](https://github.com/ideasrule/pyTPCI). Please contact me if you want more information before an arXiv preprint is released.
 
 Interests
 ------
